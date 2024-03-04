@@ -9,3 +9,30 @@ Library--->system call--->kernel it will acess the kernel PROCESS CREATION syste
 wait and waitpid is used avoid zombie process. to see the content inside folder we use "ls -al" By using System library we can run the bash command. there are 9 man pages available.
 
 Fork creates a new process then the new process is referred to us child process, the calling is called the parent process, both child and parent process have separate memory.
+
+SHELL SCRIPT
+
+shell is a program. A shell swept is a textfile containing a series of commands that are interpreted and executed by a shell program shell scripts are wed to automate tasks, execute commands or perform various operations within the linux environment
+
+
+To run shell script
+
+midir folder name
+
+Vim filename.sh
+
+
+
+#!/bin/bash
+
+echo "Rathinam"
+
+exit o
+
+chmod 777 filename.sh converting to executable
+file
+
+•/filename.sh/./a.out
+
+Library -system calls- Kernel .
+Is it will access the kernel
