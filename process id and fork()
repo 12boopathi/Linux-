@@ -1,0 +1,51 @@
+PROCESS CREATION
+
+- System () -Library function
+
+fork()
+
+To avoid Zombie Process {
+
+-"wait
+
+System call bc
+
+waitpid()
+
+"ithe ellarme clove the rupude
+
+exec ()
+
+clone()-> clone system call
+
+11 For exactise
+
+To see the content inside folder we use ls -al
+
+→ by using system library we can run the bath command.
+
+=> There are 9 man pages available.
+
+FORK
+
+Fork creates a nemprocers then the new process is referred to us child process, the calling process is called the parrent prours, both parent and child process have separate memory.
+
+To run a shell script wring & program
+
+vim filename.c
+
+#include <stdio.h>
+
+int main()
+
+{
+
+int a=5,6=5;
+
+c=a+b;
+
+printf ("Addition: %d", c);
+
+return 0;
+
+}
